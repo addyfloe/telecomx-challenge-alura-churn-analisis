@@ -28,7 +28,7 @@ Este proyecto desarrolla un análisis exhaustivo sobre la evasión de clientes (
 ---
 
 ## 🏁 Estado del proyecto
-✅ **Proyecto Finalizado**  
+✅ **Proyecto finalizado**  
 
 ---
 
@@ -103,4 +103,4 @@ Los principales hallazgos indican que:
 
 **[Adriana Flores](https://github.com/addyfloe)**  
 📅 Año: 2026  
-📍 Proyecto educativo — *Análisis de Datos con Python*  
+📍 Proyecto educativo — *Análisis de Evasión de Clientes (Churn)*  
